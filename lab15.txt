@@ -1,0 +1,1 @@
+จัดทำระบบเก็บ high score แสดง high score และ high score สูงสุด 6 อันดับแรก , จัดทำระบบ save เมื่อปิดเกม
